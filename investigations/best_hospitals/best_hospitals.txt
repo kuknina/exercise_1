@@ -1,0 +1,2 @@
+This simplified model evaluates the best hospitals as the hospitals with the lowest readmissions rate.
+Although this may be perfect, we can say that the treatment received at the hospital was the most efficient if the readmission rate for the condition was low.
