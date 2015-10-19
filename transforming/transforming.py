@@ -1,5 +1,7 @@
 # note: I understand that this is not exactly as the ER diagram describes,
 # but rather how the questions are asked
+from pyspark.sql import SQLContext
+from pyspark.sql.types import *
 
 
 # hospitals identification
